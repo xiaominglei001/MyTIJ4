@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f88acebb-2027-43a6-9b67-b5b88a9cf974" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/src/aamytest/subandparent/SubClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/aamytest/关于静态非静态初始化的总结.md" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aamytest/关于静态非静态初始化的总结.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aamytest/StaticInitialization/StaticInitialization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aamytest/staticinitialization/StaticInitialization.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/aamytest/关于静态非静态初始化的总结.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/aamytest/关于静态非静态初始化的总结.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -136,7 +133,7 @@
       <workItem from="1597904627923" duration="1350000" />
       <workItem from="1597917256570" duration="29000" />
       <workItem from="1597979336024" duration="3348000" />
-      <workItem from="1597988983945" duration="10086000" />
+      <workItem from="1597988983945" duration="10694000" />
     </task>
     <servers />
   </component>
@@ -206,10 +203,11 @@
     </state>
     <state x="575" y="366" key="com.intellij.ide.util.TipDialog/0.23.1920.1020@0.23.1920.1020" timestamp="1597979336054" />
     <state x="575" y="366" key="com.intellij.ide.util.TipDialog/0.23.1920.1021@0.23.1920.1021" timestamp="1597988984656" />
-    <state x="550" y="237" width="670" height="676" key="search.everywhere.popup" timestamp="1597990227564">
-      <screen x="0" y="23" width="1920" height="1021" />
+    <state x="550" y="237" width="670" height="677" key="search.everywhere.popup" timestamp="1598003573865">
+      <screen x="0" y="23" width="1920" height="1022" />
     </state>
     <state x="550" y="237" width="670" height="676" key="search.everywhere.popup/0.23.1920.1021@0.23.1920.1021" timestamp="1597990227564" />
+    <state x="550" y="237" width="670" height="677" key="search.everywhere.popup/0.23.1920.1022@0.23.1920.1022" timestamp="1598003573865" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
