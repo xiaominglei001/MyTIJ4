@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f88acebb-2027-43a6-9b67-b5b88a9cf974" name="默认更改列表" comment="" />
+    <list default="true" id="f88acebb-2027-43a6-9b67-b5b88a9cf974" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aamytest/TestA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aamytest/TestA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aamytest/TestB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aamytest/TestB.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1ffBwspD0C84YoTQMXpzbXWDthX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,9 +31,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/aamytest" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -110,6 +120,7 @@
       <workItem from="1597904627923" duration="1350000" />
       <workItem from="1597917256570" duration="29000" />
       <workItem from="1597979336024" duration="3348000" />
+      <workItem from="1597988983945" duration="71000" />
     </task>
     <servers />
   </component>
@@ -157,10 +168,11 @@
       <screen x="0" y="23" width="1920" height="1021" />
     </state>
     <state width="1358" height="324" key="GridCell.Tab.1.right/0.23.1920.1021@0.23.1920.1021" timestamp="1597988615100" />
-    <state x="575" y="366" key="com.intellij.ide.util.TipDialog" timestamp="1597979336054">
-      <screen x="0" y="23" width="1920" height="1020" />
+    <state x="575" y="366" key="com.intellij.ide.util.TipDialog" timestamp="1597988984656">
+      <screen x="0" y="23" width="1920" height="1021" />
     </state>
     <state x="575" y="366" key="com.intellij.ide.util.TipDialog/0.23.1920.1020@0.23.1920.1020" timestamp="1597979336054" />
+    <state x="575" y="366" key="com.intellij.ide.util.TipDialog/0.23.1920.1021@0.23.1920.1021" timestamp="1597988984656" />
     <state x="550" y="237" key="search.everywhere.popup" timestamp="1597988087102">
       <screen x="0" y="23" width="1920" height="1021" />
     </state>

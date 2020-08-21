@@ -22,5 +22,9 @@ public class TestA {
 
     }
 
+    public void sayMyName(){
+        System.out.println(System.currentTimeMillis() + "MyNameisTestA");
+    }
+
 
 }
