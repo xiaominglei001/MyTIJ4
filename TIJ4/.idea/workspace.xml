@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f88acebb-2027-43a6-9b67-b5b88a9cf974" name="默认更改列表" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aamytest/staticinitialization/StaticInitialization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aamytest/staticinitialization/StaticInitialization.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/aamytest/关于静态非静态初始化的总结.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/aamytest/关于静态非静态初始化的总结.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -133,7 +134,7 @@
       <workItem from="1597904627923" duration="1350000" />
       <workItem from="1597917256570" duration="29000" />
       <workItem from="1597979336024" duration="3348000" />
-      <workItem from="1597988983945" duration="10694000" />
+      <workItem from="1597988983945" duration="10936000" />
     </task>
     <servers />
   </component>

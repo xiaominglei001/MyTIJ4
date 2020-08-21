@@ -75,8 +75,3 @@ public class StaticInitialization {
     }
 }
 
-/*
-有助于理解静态为甚这样执行的一些原因可参考"码农每日一题"公众号文章：《再谈 Java 类加载、链接、初始化流程细节问题》
-https://gitee.com/xiaominglei001/forMarkdown/raw/master/20200820170521.png
-
-*/
