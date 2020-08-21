@@ -1,4 +1,4 @@
-package aamytest.StaticInitialization;
+package aamytest.staticinitialization;
 
 class Parent {
     static {
