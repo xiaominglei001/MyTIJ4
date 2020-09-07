@@ -1,6 +1,6 @@
 //: concurrency/ResponsiveUI.java
 package concurrency; /* Added by Eclipse.py */
-// User interface responsiveness.
+// aamytest.User interface responsiveness.
 // {RunByHand}
 
 class UnresponsiveUI {

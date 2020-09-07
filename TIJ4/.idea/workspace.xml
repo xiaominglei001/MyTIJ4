@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f88acebb-2027-43a6-9b67-b5b88a9cf974" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/src/aamytest/extendtest/ExeSeqTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aamytest/staticinitialization/StaticInitialization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aamytest/staticinitialization/StaticInitialization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aamytest/关于静态非静态初始化的总结.md" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aamytest/关于静态非静态初始化的总结.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/aamytest/关于静态非静态初始化的总结.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/aamytest/关于静态非静态初始化的总结.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/concurrency/ResponsiveUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/concurrency/ResponsiveUI.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,36 +36,26 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.last.edited" value="模块" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="aamytest" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/aamytest" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SubClass">
-    <configuration name="Overloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="initialization.Overloading" />
+  <component name="RunManager" selected="Application.Te">
+    <configuration name="ExeSeqTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aamytest.extendtest.ExeSeqTest" />
       <module name="TIJ4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="initialization.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StaticInitialization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aamytest.staticinitialization.StaticInitialization" />
-      <module name="TIJ4" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="aamytest.initialization.*" />
+          <option name="PATTERN" value="aamytest.extendtest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aamytest.initialization.TestB" />
+    <configuration name="Te" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aamytest.Te" />
       <module name="TIJ4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aamytest.initialization.*" />
+          <option name="PATTERN" value="aamytest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +89,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aamytest.initialization.TestC" />
+    <configuration name="TestOverRide" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aamytest.extendtest.TestOverRide" />
       <module name="TIJ4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aamytest.initialization.*" />
+          <option name="PATTERN" value="aamytest.extendtest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Testaa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aamytest.Testaa" />
+      <module name="TIJ4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aamytest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Te" />
+        <item itemvalue="Application.ExeSeqTest" />
+        <item itemvalue="Application.TestOverRide" />
+        <item itemvalue="Application.Testaa" />
         <item itemvalue="Application.SubClass" />
-        <item itemvalue="Application.TestB" />
-        <item itemvalue="Application.StaticInitialization (1)" />
-        <item itemvalue="Application.TestC" />
-        <item itemvalue="Application.Overloading" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +139,15 @@
       <workItem from="1597904627923" duration="1350000" />
       <workItem from="1597917256570" duration="29000" />
       <workItem from="1597979336024" duration="3348000" />
-      <workItem from="1597988983945" duration="10936000" />
+      <workItem from="1597988983945" duration="11027000" />
+      <workItem from="1598238755999" duration="3176000" />
+      <workItem from="1598248168726" duration="7976000" />
+      <workItem from="1598332332655" duration="694000" />
+      <workItem from="1598433549695" duration="2799000" />
+      <workItem from="1598490288360" duration="5664000" />
+      <workItem from="1598856499021" duration="400000" />
+      <workItem from="1598942355126" duration="3423000" />
+      <workItem from="1599457792936" duration="1427000" />
     </task>
     <servers />
   </component>
@@ -142,73 +155,100 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="674" y="253" key="#com.intellij.ide.util.MemberChooser" timestamp="1597999248657">
+    <state x="674" y="253" key="#com.intellij.ide.util.MemberChooser" timestamp="1598943529215">
+      <screen x="0" y="23" width="1920" height="1020" />
+    </state>
+    <state x="674" y="253" key="#com.intellij.ide.util.MemberChooser/0.23.1920.1020@0.23.1920.1020" timestamp="1598943529215" />
+    <state x="674" y="253" key="#com.intellij.ide.util.MemberChooser/0.23.1920.1021@0.23.1920.1021" timestamp="1598435295319" />
+    <state x="674" y="253" key="#com.intellij.ide.util.MemberChooser/0.23.1920.1022@0.23.1920.1022" timestamp="1598249007704" />
+    <state x="680" y="297" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1598942842899">
+      <screen x="0" y="23" width="1920" height="1020" />
+    </state>
+    <state x="680" y="297" key="#com.intellij.ide.util.PackageChooserDialog/0.23.1920.1020@0.23.1920.1020" timestamp="1598942842899" />
+    <state x="771" y="399" width="342" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1598942844104">
+      <screen x="0" y="23" width="1920" height="1020" />
+    </state>
+    <state x="771" y="399" width="342" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1920.1020@0.23.1920.1020" timestamp="1598942844104" />
+    <state x="680" y="265" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599458949492">
+      <screen x="0" y="23" width="1920" height="1020" />
+    </state>
+    <state x="680" y="265" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1920.1020@0.23.1920.1020" timestamp="1599458949492" />
+    <state x="377" y="177" key="#项目结构" timestamp="1598238934605">
       <screen x="0" y="23" width="1920" height="1021" />
     </state>
-    <state x="674" y="253" key="#com.intellij.ide.util.MemberChooser/0.23.1920.1021@0.23.1920.1021" timestamp="1597999248657" />
-    <state x="674" y="253" key="#com.intellij.ide.util.MemberChooser/0.23.1920.1022@0.23.1920.1022" timestamp="1597996775769" />
-    <state x="377" y="177" key="#项目结构" timestamp="1597979781756">
+    <state x="377" y="177" key="#项目结构/0.23.1920.1021@0.23.1920.1021" timestamp="1598238934605" />
+    <state x="336" y="23" width="1336" height="1012" key="CommitChangelistDialog2" timestamp="1599459143464">
+      <screen x="0" y="23" width="1920" height="1020" />
+    </state>
+    <state x="336" y="23" width="1336" height="1012" key="CommitChangelistDialog2/0.23.1920.1020@0.23.1920.1020" timestamp="1599459143464" />
+    <state width="1707" height="163" key="GridCell.Tab.0.bottom" timestamp="1598955166038">
       <screen x="0" y="23" width="1920" height="1021" />
     </state>
-    <state x="377" y="177" key="#项目结构/0.23.1920.1021@0.23.1920.1021" timestamp="1597979781756" />
-    <state width="1707" height="304" key="GridCell.Tab.0.bottom" timestamp="1598003111765">
-      <screen x="0" y="23" width="1920" height="1022" />
-    </state>
-    <state width="1358" height="466" key="GridCell.Tab.0.bottom/0.23.1920.1020@0.23.1920.1020" timestamp="1597916470836" />
-    <state width="1707" height="352" key="GridCell.Tab.0.bottom/0.23.1920.1021@0.23.1920.1021" timestamp="1597999303683" />
-    <state width="1707" height="304" key="GridCell.Tab.0.bottom/0.23.1920.1022@0.23.1920.1022" timestamp="1598003111765" />
-    <state width="1707" height="304" key="GridCell.Tab.0.center" timestamp="1598003111764">
-      <screen x="0" y="23" width="1920" height="1022" />
-    </state>
-    <state width="1358" height="466" key="GridCell.Tab.0.center/0.23.1920.1020@0.23.1920.1020" timestamp="1597916470836" />
-    <state width="1707" height="352" key="GridCell.Tab.0.center/0.23.1920.1021@0.23.1920.1021" timestamp="1597999303682" />
-    <state width="1707" height="304" key="GridCell.Tab.0.center/0.23.1920.1022@0.23.1920.1022" timestamp="1598003111764" />
-    <state width="1707" height="304" key="GridCell.Tab.0.left" timestamp="1598003111764">
-      <screen x="0" y="23" width="1920" height="1022" />
-    </state>
-    <state width="1358" height="466" key="GridCell.Tab.0.left/0.23.1920.1020@0.23.1920.1020" timestamp="1597916470830" />
-    <state width="1707" height="352" key="GridCell.Tab.0.left/0.23.1920.1021@0.23.1920.1021" timestamp="1597999303681" />
-    <state width="1707" height="304" key="GridCell.Tab.0.left/0.23.1920.1022@0.23.1920.1022" timestamp="1598003111764" />
-    <state width="1707" height="304" key="GridCell.Tab.0.right" timestamp="1598003111765">
-      <screen x="0" y="23" width="1920" height="1022" />
-    </state>
-    <state width="1358" height="466" key="GridCell.Tab.0.right/0.23.1920.1020@0.23.1920.1020" timestamp="1597916470836" />
-    <state width="1707" height="352" key="GridCell.Tab.0.right/0.23.1920.1021@0.23.1920.1021" timestamp="1597999303682" />
-    <state width="1707" height="304" key="GridCell.Tab.0.right/0.23.1920.1022@0.23.1920.1022" timestamp="1598003111765" />
-    <state width="1707" height="324" key="GridCell.Tab.1.bottom" timestamp="1597999183379">
+    <state width="1707" height="163" key="GridCell.Tab.0.bottom/0.23.1920.1020@0.23.1920.1020" timestamp="1598944986809" />
+    <state width="1707" height="163" key="GridCell.Tab.0.bottom/0.23.1920.1021@0.23.1920.1021" timestamp="1598955166038" />
+    <state width="1707" height="193" key="GridCell.Tab.0.bottom/0.23.1920.1022@0.23.1920.1022" timestamp="1598264090901" />
+    <state width="1707" height="163" key="GridCell.Tab.0.center" timestamp="1598955166036">
       <screen x="0" y="23" width="1920" height="1021" />
     </state>
-    <state width="1707" height="324" key="GridCell.Tab.1.bottom/0.23.1920.1021@0.23.1920.1021" timestamp="1597999183379" />
-    <state width="1707" height="324" key="GridCell.Tab.1.bottom/0.23.1920.1022@0.23.1920.1022" timestamp="1597997091176" />
-    <state width="1707" height="324" key="GridCell.Tab.1.center" timestamp="1597999183379">
+    <state width="1707" height="163" key="GridCell.Tab.0.center/0.23.1920.1020@0.23.1920.1020" timestamp="1598944986808" />
+    <state width="1707" height="163" key="GridCell.Tab.0.center/0.23.1920.1021@0.23.1920.1021" timestamp="1598955166036" />
+    <state width="1707" height="193" key="GridCell.Tab.0.center/0.23.1920.1022@0.23.1920.1022" timestamp="1598264090900" />
+    <state width="1707" height="163" key="GridCell.Tab.0.left" timestamp="1598955166035">
       <screen x="0" y="23" width="1920" height="1021" />
     </state>
-    <state width="1707" height="324" key="GridCell.Tab.1.center/0.23.1920.1021@0.23.1920.1021" timestamp="1597999183379" />
-    <state width="1707" height="324" key="GridCell.Tab.1.center/0.23.1920.1022@0.23.1920.1022" timestamp="1597997091175" />
-    <state width="1707" height="324" key="GridCell.Tab.1.left" timestamp="1597999183379">
+    <state width="1707" height="163" key="GridCell.Tab.0.left/0.23.1920.1020@0.23.1920.1020" timestamp="1598944986807" />
+    <state width="1707" height="163" key="GridCell.Tab.0.left/0.23.1920.1021@0.23.1920.1021" timestamp="1598955166035" />
+    <state width="1707" height="193" key="GridCell.Tab.0.left/0.23.1920.1022@0.23.1920.1022" timestamp="1598264090900" />
+    <state width="1707" height="163" key="GridCell.Tab.0.right" timestamp="1598955166037">
       <screen x="0" y="23" width="1920" height="1021" />
     </state>
-    <state width="1707" height="324" key="GridCell.Tab.1.left/0.23.1920.1021@0.23.1920.1021" timestamp="1597999183379" />
-    <state width="1707" height="324" key="GridCell.Tab.1.left/0.23.1920.1022@0.23.1920.1022" timestamp="1597997091175" />
-    <state width="1707" height="324" key="GridCell.Tab.1.right" timestamp="1597999183379">
-      <screen x="0" y="23" width="1920" height="1021" />
+    <state width="1707" height="163" key="GridCell.Tab.0.right/0.23.1920.1020@0.23.1920.1020" timestamp="1598944986808" />
+    <state width="1707" height="163" key="GridCell.Tab.0.right/0.23.1920.1021@0.23.1920.1021" timestamp="1598955166037" />
+    <state width="1707" height="193" key="GridCell.Tab.0.right/0.23.1920.1022@0.23.1920.1022" timestamp="1598264090900" />
+    <state width="1707" height="295" key="GridCell.Tab.1.bottom" timestamp="1598512142664">
+      <screen x="0" y="23" width="1920" height="1020" />
     </state>
-    <state width="1707" height="324" key="GridCell.Tab.1.right/0.23.1920.1021@0.23.1920.1021" timestamp="1597999183379" />
-    <state width="1707" height="324" key="GridCell.Tab.1.right/0.23.1920.1022@0.23.1920.1022" timestamp="1597997091176" />
+    <state width="1707" height="295" key="GridCell.Tab.1.bottom/0.23.1920.1020@0.23.1920.1020" timestamp="1598512142664" />
+    <state width="1707" height="295" key="GridCell.Tab.1.bottom/0.23.1920.1021@0.23.1920.1021" timestamp="1598492160815" />
+    <state width="1707" height="324" key="GridCell.Tab.1.bottom/0.23.1920.1022@0.23.1920.1022" timestamp="1598004236127" />
+    <state width="1707" height="295" key="GridCell.Tab.1.center" timestamp="1598512142662">
+      <screen x="0" y="23" width="1920" height="1020" />
+    </state>
+    <state width="1707" height="295" key="GridCell.Tab.1.center/0.23.1920.1020@0.23.1920.1020" timestamp="1598512142662" />
+    <state width="1707" height="295" key="GridCell.Tab.1.center/0.23.1920.1021@0.23.1920.1021" timestamp="1598492160814" />
+    <state width="1707" height="324" key="GridCell.Tab.1.center/0.23.1920.1022@0.23.1920.1022" timestamp="1598004236126" />
+    <state width="1707" height="295" key="GridCell.Tab.1.left" timestamp="1598512142661">
+      <screen x="0" y="23" width="1920" height="1020" />
+    </state>
+    <state width="1707" height="295" key="GridCell.Tab.1.left/0.23.1920.1020@0.23.1920.1020" timestamp="1598512142661" />
+    <state width="1707" height="295" key="GridCell.Tab.1.left/0.23.1920.1021@0.23.1920.1021" timestamp="1598492160814" />
+    <state width="1707" height="324" key="GridCell.Tab.1.left/0.23.1920.1022@0.23.1920.1022" timestamp="1598004236126" />
+    <state width="1707" height="295" key="GridCell.Tab.1.right" timestamp="1598512142663">
+      <screen x="0" y="23" width="1920" height="1020" />
+    </state>
+    <state width="1707" height="295" key="GridCell.Tab.1.right/0.23.1920.1020@0.23.1920.1020" timestamp="1598512142663" />
+    <state width="1707" height="295" key="GridCell.Tab.1.right/0.23.1920.1021@0.23.1920.1021" timestamp="1598492160814" />
+    <state width="1707" height="324" key="GridCell.Tab.1.right/0.23.1920.1022@0.23.1920.1022" timestamp="1598004236126" />
     <state x="392" y="186" key="SettingsEditor" timestamp="1597989952278">
       <screen x="0" y="23" width="1920" height="1021" />
     </state>
     <state x="392" y="186" key="SettingsEditor/0.23.1920.1021@0.23.1920.1021" timestamp="1597989952278" />
-    <state x="575" y="366" key="com.intellij.ide.util.TipDialog" timestamp="1597988984656">
-      <screen x="0" y="23" width="1920" height="1021" />
-    </state>
-    <state x="575" y="366" key="com.intellij.ide.util.TipDialog/0.23.1920.1020@0.23.1920.1020" timestamp="1597979336054" />
-    <state x="575" y="366" key="com.intellij.ide.util.TipDialog/0.23.1920.1021@0.23.1920.1021" timestamp="1597988984656" />
-    <state x="550" y="237" width="670" height="677" key="search.everywhere.popup" timestamp="1598003573865">
+    <state x="684" y="262" width="540" height="524" key="StructurePopup" timestamp="1598248900400">
       <screen x="0" y="23" width="1920" height="1022" />
     </state>
-    <state x="550" y="237" width="670" height="676" key="search.everywhere.popup/0.23.1920.1021@0.23.1920.1021" timestamp="1597990227564" />
-    <state x="550" y="237" width="670" height="677" key="search.everywhere.popup/0.23.1920.1022@0.23.1920.1022" timestamp="1598003573865" />
+    <state x="684" y="262" width="540" height="524" key="StructurePopup/0.23.1920.1022@0.23.1920.1022" timestamp="1598248900400" />
+    <state x="575" y="366" key="com.intellij.ide.util.TipDialog" timestamp="1599457793007">
+      <screen x="0" y="23" width="1920" height="1020" />
+    </state>
+    <state x="575" y="366" key="com.intellij.ide.util.TipDialog/0.23.1920.1020@0.23.1920.1020" timestamp="1599457793007" />
+    <state x="575" y="366" key="com.intellij.ide.util.TipDialog/0.23.1920.1021@0.23.1920.1021" timestamp="1598939944081" />
+    <state x="575" y="366" key="com.intellij.ide.util.TipDialog/0.23.1920.1022@0.23.1920.1022" timestamp="1598248183902" />
+    <state x="550" y="237" width="670" height="676" key="search.everywhere.popup" timestamp="1599459285515">
+      <screen x="0" y="23" width="1920" height="1020" />
+    </state>
+    <state x="550" y="237" width="670" height="676" key="search.everywhere.popup/0.23.1920.1020@0.23.1920.1020" timestamp="1599459285515" />
+    <state x="550" y="237" width="670" height="676" key="search.everywhere.popup/0.23.1920.1021@0.23.1920.1021" timestamp="1598245853323" />
+    <state x="550" y="237" width="670" height="677" key="search.everywhere.popup/0.23.1920.1022@0.23.1920.1022" timestamp="1598247840682" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -218,7 +258,62 @@
           <line>32</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/aamytest/extendtest/ExeSeqTest.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/aamytest/extendtest/ExeSeqTest.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/aamytest/extendtest/ExeSeqTest.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/aamytest/extendtest/ExeSeqTest.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/aamytest/extendtest/ExeSeqTest.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/aamytest/extendtest/ExeSeqTest.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/aamytest/extendtest/ExeSeqTest.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/aamytest/extendtest/ExeSeqTest.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/aamytest/extendtest/ExeSeqTest.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/aamytest/extendtest/ExeSeqTest.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="getValue()" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
